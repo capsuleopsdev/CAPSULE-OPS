@@ -2,5 +2,7 @@
   "latestVersion": "0.1.3",
   "downloadUrl": "https://github.com/samuraitheworrier-maker/CAPSULE-OPS/releases/download/Capsule_OPS/Capsule.OPS.apk",
   "message": "New update is out!\nAdded new Map\nAdded new SMG Gun \nAdded Rifle and Pistol model \nManymore... .",
-  "optionalPatch": false
+  "optionalPatch": false,
+  "maintenance": true,
+  "maintenanceMessage": "We are improving the servers.\nBack soon!"
 }
